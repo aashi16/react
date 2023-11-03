@@ -4,3 +4,6 @@
 [submodule "space-news"]
 	path = space-news
 	url = https://github.com/aashi16/space-news.git
+[submodule "todoapp"]
+	path = todoapp
+	url = https://github.com/aashi16/todoapp.git
