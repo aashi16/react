@@ -1,3 +1,6 @@
 [submodule "quiz-app"]
 	path = quiz-app
 	url = https://github.com/aashi16/quiz-app.git
+[submodule "space-news"]
+	path = space-news
+	url = https://github.com/aashi16/space-news.git
